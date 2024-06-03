@@ -1,7 +1,6 @@
 # GuitarLA - Instrumentos y Cursos
 
-![Nuestra Colección](![image](https://github.com/JhojanBinary/GuitarShop/assets/102551448/c226fb4e-63ac-4153-b559-8c2526994cbd)
-)
+[![Nuestra Colección](https://blob.whatsapp.com/ede449f7-9c07-4078-9a9c-830d9f63febc)](https://fantastic-seahorse-8b5217.netlify.app/)
 
 [Visita nuestro sitio web](https://fantastic-seahorse-8b5217.netlify.app/)
 
