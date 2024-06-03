@@ -12,13 +12,11 @@ GuitarLA
 Es un sitio web diseñado para la venta de guitarras y cursos de música. Este proyecto se desarrolló utilizando una serie de tecnologías modernas para asegurar un rendimiento óptimo y una experiencia de usuario atractiva y responsiva.
 
 Tecnologías Utilizadas:
--React
-Para construir interfaces de usuario. Su enfoque basado en componentes permite una reutilización de código efectiva y una estructura clara.
 
--Vite es una herramienta de construcción rápida para proyectos web modernos, que proporciona un entorno de desarrollo más ágil en comparación con herramientas tradicionales como Webpack.
+-React Para construir interfaces de usuario. Su enfoque basado en componentes permite una reutilización de código efectiva y una estructura clara.
 
-Desarrollo Rápido: Vite ofrece un servidor de desarrollo extremadamente rápido con recarga en caliente instantánea.
-Optimización de Producción: Vite utiliza Rollup para la construcción de producción, lo que garantiza una optimización eficiente de los activos.
+-Vite  me permite una construcción rápida para proyectos web modernos, que proporciona un entorno de desarrollo más ágil en comparación con herramientas tradicionales como Webpack.
+
 
 -CSS se utilizó para diseñar y estilizar la interfaz de usuario, asegurando una experiencia visual atractiva y una usabilidad adecuada en diferentes dispositivos.
 
