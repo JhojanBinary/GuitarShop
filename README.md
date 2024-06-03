@@ -1,8 +1,30 @@
-# React + Vite
+# GuitarLA - Instrumentos y Cursos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Nuestra Colección](![image](https://github.com/JhojanBinary/GuitarShop/assets/102551448/c226fb4e-63ac-4153-b559-8c2526994cbd)
+)
 
-Currently, two official plugins are available:
+[Visita nuestro sitio web](https://fantastic-seahorse-8b5217.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Descripción
+
+Este es un sitio web para la venta de guitarras y cursos de música. Puedes explorar nuestra colección, agregar productos al carrito y realizar tus compras en línea.
+
+## Características
+
+- Catálogo de guitarras
+- Carrito de compras
+- Información detallada de productos
+- Diseño responsivo
+
+## Tecnologías utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Instalación
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu_usuario/tu_repositorio.git
