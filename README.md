@@ -1,5 +1,5 @@
 
-[GuitarLa](https://fantastic-seahorse-8b5217.netlify.app/)
+[GuitarLa]([https://fantastic-seahorse-8b5217.netlify.app/](https://66660be574013c1ade6be954--soft-gumption-9c61d2.netlify.app/))
 
 ![image](https://github.com/JhojanBinary/GuitarShop/assets/102551448/e65e21e9-77b1-4497-b68c-f392e1743fdc)
 
